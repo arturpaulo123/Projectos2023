@@ -1,0 +1,56 @@
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\bin\Debug\Interop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csprojResolveAssemblyReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csproj.ResolveComReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor_de_Video.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csproj.GenerateResource.Cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C.Sharp#\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor_de_Video.Form1.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csproj.ResolveComReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\bin\Debug\Interop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor_de_Video.Form1.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor_de_Video.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csproj.GenerateResource.Cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csprojResolveAssemblyReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Video\Reprodutor de Video\obj\Debug\Reprodutor_de_Video.Form2.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csproj.ResolveComReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\bin\Debug\Interop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor_de_Video.Form1.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor_de_Video.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csproj.GenerateResource.Cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Interop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csproj.ResolveComReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\bin\Debug\Reprodutor de Video.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\bin\Debug\Interop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csprojResolveAssemblyReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor_de_video.Form1.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor_de_Video.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp2\Reprodutor de Aúdio e Video\Reprodutor de Video\obj\Debug\Reprodutor de Video.csproj.GenerateResource.Cache

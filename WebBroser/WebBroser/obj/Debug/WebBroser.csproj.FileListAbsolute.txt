@@ -1,0 +1,12 @@
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\WebBroser\WebBroser\bin\Debug\WebBroser.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\WebBroser\WebBroser\bin\Debug\WebBroser.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\WebBroser\WebBroser\bin\Debug\WebBroser.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\WebBroser\WebBroser\obj\Debug\WebBroser.csprojResolveAssemblyReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\WebBroser\WebBroser\obj\Debug\WebBroser.Form1.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\WebBroser\WebBroser\obj\Debug\WebBroser.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\WebBroser\WebBroser\obj\Debug\WebBroser.csproj.GenerateResource.Cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\WebBroser\WebBroser\obj\Debug\WebBroser.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\WebBroser\WebBroser\obj\Debug\WebBroser.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Projectos2023\WebBroser\WebBroser\bin\Debug\WebBroser.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Projectos2023\WebBroser\WebBroser\obj\Debug\WebBroser.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\Projectos2023\WebBroser\WebBroser\obj\Debug\WebBroser.pdb
