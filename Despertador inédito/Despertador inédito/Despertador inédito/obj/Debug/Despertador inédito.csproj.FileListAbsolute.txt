@@ -1,0 +1,37 @@
+S:\tudo de c#\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.exe.config
+S:\tudo de c#\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.exe
+S:\tudo de c#\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.pdb
+S:\tudo de c#\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.csprojResolveAssemblyReference.cache
+S:\tudo de c#\Despertador inédito\Despertador inédito\obj\Debug\Despertador_inédito.Form1.resources
+S:\tudo de c#\Despertador inédito\Despertador inédito\obj\Debug\Despertador_inédito.Properties.Resources.resources
+S:\tudo de c#\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.csproj.GenerateResource.Cache
+S:\tudo de c#\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.exe
+S:\tudo de c#\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.pdb
+E:\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.exe.config
+E:\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.exe
+E:\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.pdb
+E:\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.exe
+E:\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.pdb
+E:\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.csprojResolveAssemblyReference.cache
+E:\Despertador inédito\Despertador inédito\obj\Debug\Despertador_inédito.Form1.resources
+E:\Despertador inédito\Despertador inédito\obj\Debug\Despertador_inédito.Properties.Resources.resources
+E:\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.csproj.GenerateResource.Cache
+D:\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.exe.config
+D:\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.exe
+D:\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.pdb
+D:\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.exe
+D:\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.pdb
+D:\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.csprojResolveAssemblyReference.cache
+D:\Despertador inédito\Despertador inédito\obj\Debug\Despertador_inédito.Form1.resources
+D:\Despertador inédito\Despertador inédito\obj\Debug\Despertador_inédito.Properties.Resources.resources
+D:\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.csproj.GenerateResource.Cache
+C:\Users\JOSE PEDRO\Documents\ANA\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.exe.config
+C:\Users\JOSE PEDRO\Documents\ANA\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.exe
+C:\Users\JOSE PEDRO\Documents\ANA\Despertador inédito\Despertador inédito\bin\Debug\Despertador inédito.pdb
+C:\Users\JOSE PEDRO\Documents\ANA\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.csprojAssemblyReference.cache
+C:\Users\JOSE PEDRO\Documents\ANA\Despertador inédito\Despertador inédito\obj\Debug\Despertador_inédito.Form1.resources
+C:\Users\JOSE PEDRO\Documents\ANA\Despertador inédito\Despertador inédito\obj\Debug\Despertador_inédito.Properties.Resources.resources
+C:\Users\JOSE PEDRO\Documents\ANA\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.csproj.GenerateResource.cache
+C:\Users\JOSE PEDRO\Documents\ANA\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.csproj.CoreCompileInputs.cache
+C:\Users\JOSE PEDRO\Documents\ANA\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.exe
+C:\Users\JOSE PEDRO\Documents\ANA\Despertador inédito\Despertador inédito\obj\Debug\Despertador inédito.pdb

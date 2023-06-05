@@ -1,0 +1,21 @@
+c:\users\us\documents\visual studio 2015\C#\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+c:\users\us\documents\visual studio 2015\C#\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+c:\users\us\documents\visual studio 2015\C#\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+c:\users\us\documents\visual studio 2015\C#\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csprojResolveAssemblyReference.cache
+c:\users\us\documents\visual studio 2015\C#\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+c:\users\us\documents\visual studio 2015\C#\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.GenerateResource.Cache
+c:\users\us\documents\visual studio 2015\C#\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+c:\users\us\documents\visual studio 2015\C#\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
+C:\Users\us\documents\visual studio 2015\C#\Jogo da velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.JOGO_DA_VELHA.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csprojResolveAssemblyReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.JOGO_DA_VELHA.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.GenerateResource.Cache
