@@ -1,0 +1,45 @@
+c:\users\alassana djigo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\alassana djigo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\alassana djigo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\alassana djigo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\alassana djigo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\alassana djigo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\alassana djigo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\alassana djigo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\alassana djigo\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Alassana Djigo\Documents\Visual Studio 2015\Projects\App calculadora\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Alassana Djigo\Documents\Visual Studio 2015\Projects\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Alassana Djigo\Documents\Visual Studio 2015\Projects\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Alassana Djigo\Documents\Visual Studio 2015\Projects\App calculadora\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Alassana Djigo\Documents\Visual Studio 2015\Projects\App calculadora\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Alassana Djigo\Documents\Visual Studio 2015\Projects\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Alassana Djigo\Documents\Visual Studio 2015\Projects\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Alassana Djigo\Documents\Visual Studio 2015\Projects\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Alassana Djigo\Documents\Visual Studio 2015\Projects\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\berna\Desktop\DAVID\Nova pasta\App calculadora\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\berna\Desktop\DAVID\Nova pasta\App calculadora\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\berna\Desktop\DAVID\Nova pasta\App calculadora\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\berna\Desktop\DAVID\Nova pasta\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\berna\Desktop\DAVID\Nova pasta\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\berna\Desktop\DAVID\Nova pasta\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\berna\Desktop\DAVID\Nova pasta\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\berna\Desktop\DAVID\Nova pasta\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\DAVID\Nova pasta\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\berna\Desktop\DAVID\Nova pasta\App calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Artur_Estudos\Documents\Calculadora\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Artur_Estudos\Documents\Calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Artur_Estudos\Documents\Calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Artur_Estudos\Documents\Calculadora\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Artur_Estudos\Documents\Calculadora\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Artur_Estudos\Documents\Calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Artur_Estudos\Documents\Calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Artur_Estudos\Documents\Calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Calculadora\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Calculadora Cientifica\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Calculadora Cientifica\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Calculadora Cientifica\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Calculadora Cientifica\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Calculadora Cientifica\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Calculadora Cientifica\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Calculadora Cientifica\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Calculadora Cientifica\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache

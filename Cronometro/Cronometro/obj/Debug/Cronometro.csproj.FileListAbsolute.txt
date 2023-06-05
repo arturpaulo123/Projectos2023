@@ -1,0 +1,17 @@
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Cronometro\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Cronometro\Cronometro\obj\Debug\Cronometro.Form1.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\C#\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Cronometro\Cronometro\obj\Debug\Cronometro.Form1.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+C:\Users\Artur_Estudos\Documents\Visual Studio 2015\CSharp\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
