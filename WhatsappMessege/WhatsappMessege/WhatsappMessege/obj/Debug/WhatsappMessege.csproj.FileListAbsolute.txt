@@ -1,0 +1,79 @@
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.exe.config
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.exe
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.pdb
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.csprojAssemblyReference.cache
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.Form1.resources
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.Properties.Resources.resources
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.csproj.GenerateResource.cache
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.csproj.CoreCompileInputs.cache
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.exe
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.pdb
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\Twilio.dll
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\bin\Debug\Twilio.xml
+C:\Users\JOSE PEDRO\source\repos\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.csproj.CopyComplete
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.exe.config
+E:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.exe
+E:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.pdb
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.exe
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.pdb
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\Newtonsoft.Json.dll
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\Twilio.dll
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\Newtonsoft.Json.xml
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\WhatsappMessege\WhatsappMessege\bin\Debug\Twilio.xml
+E:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.csprojResolveAssemblyReference.cache
+E:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.Form2.resources
+E:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.Form1.resources
+E:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.Properties.Resources.resources
+E:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.csproj.GenerateResource.Cache
+G:\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.exe.config
+G:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.exe
+G:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.pdb
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.exe.config
+H:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.exe
+H:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.pdb
+H:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.csprojResolveAssemblyReference.cache
+H:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.Form1.resources
+H:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.Properties.Resources.resources
+H:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.csproj.GenerateResource.Cache
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.exe
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.pdb
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\Guna.UI2.dll
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Logging.dll
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\Newtonsoft.Json.dll
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\Twilio.dll
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\Newtonsoft.Json.xml
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+H:\WhatsappMessege\WhatsappMessege\bin\Debug\Twilio.xml
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.exe.config
+D:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.exe
+D:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.pdb
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.exe
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\WhatsappMessege.pdb
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\Newtonsoft.Json.dll
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\Twilio.dll
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\Newtonsoft.Json.xml
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\WhatsappMessege\WhatsappMessege\bin\Debug\Twilio.xml
+D:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.csprojResolveAssemblyReference.cache
+D:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.Form1.resources
+D:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.Properties.Resources.resources
+D:\WhatsappMessege\WhatsappMessege\obj\Debug\WhatsappMessege.csproj.GenerateResource.Cache
